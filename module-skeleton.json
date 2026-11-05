@@ -1,0 +1,25 @@
+{
+  "repository": "module-observability-flutter",
+  "capabilityKey": "liberusoftware/observability",
+  "presentation": "mobile-flutter",
+  "package": "module_observability_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/observability.md",
+  "presentationPlan": "projects/boilerplate/flutter/observability.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
